@@ -1,0 +1,27 @@
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildVersion
+
+    defaultConfig {
+        applicationId "com.nyt.mostpopular"
+
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.compileSdkVersion
+
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    flavorDimensions android.defaultConfig.versionName
+    productFlavors {
+        dev {
+            applicationIdSuffix ".dev"
+            resValue "string","apikey","mmGURiqGYdzgsQ85aG5Mz3cjhBU29Pjh"
+        }
+        prod {
+            resValue "string","apikey","mmGURiqGYdzgsQ85aG5Mz3cjhBU29Pjh"
+        }
+    }
+}
