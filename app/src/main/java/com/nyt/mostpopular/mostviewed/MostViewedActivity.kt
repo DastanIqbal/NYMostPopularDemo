@@ -1,4 +1,4 @@
-package com.nyt.mostpopular.viewed
+package com.nyt.mostpopular.mostviewed
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

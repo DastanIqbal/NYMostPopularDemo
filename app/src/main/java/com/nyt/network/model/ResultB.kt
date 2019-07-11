@@ -1,4 +1,4 @@
-package com.nyt.mostpopular.network.model
+package com.nyt.network.model
 
 import android.os.Parcel
 import android.os.Parcelable

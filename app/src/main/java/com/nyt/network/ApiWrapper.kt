@@ -1,4 +1,4 @@
-package com.nyt.mostpopular.network
+package com.nyt.network
 
 import com.google.gson.GsonBuilder
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
@@ -27,25 +27,6 @@ object ApiWrapper {
 
     private fun createService(): INytApi? {
         val gson = GsonBuilder()
-//            .registerTypeAdapter(
-//                CanStringList::class.java,
-//                object : JsonDeserializer<CanStringList> {
-//                    override fun deserialize(
-//                        json: JsonElement?,
-//                        typeOfT: Type?,
-//                        context: JsonDeserializationContext?
-//                    ): CanStringList {
-//                        json?.run {
-//                            return if (json is JsonArray) {
-//                                val values = json.asJsonArray.toMutableList()
-//                                CanStringList(values as List<String>)
-//                            } else {
-//                                CanStringList(emptyList())
-//                            }
-//                        }
-//                        return CanStringList(emptyList())
-//                    }
-//                })
             .setLenient()
             .create()
         return Retrofit.Builder()

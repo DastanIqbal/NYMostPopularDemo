@@ -1,6 +1,6 @@
-package com.nyt.mostpopular.network
+package com.nyt.network
 
-import com.nyt.mostpopular.network.model.MostViewedB
+import com.nyt.network.model.MostViewedB
 import kotlinx.coroutines.Deferred
 import retrofit2.http.GET
 import retrofit2.http.Path

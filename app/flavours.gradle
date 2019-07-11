@@ -1,3 +1,8 @@
+
+def apikeysPropertiesFile = rootProject.file("keys.properties")
+def apikeysProperties = new Properties()
+apikeysProperties.load(new FileInputStream(apikeysPropertiesFile))
+
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildVersion
@@ -21,10 +26,10 @@ android {
     productFlavors {
         dev {
             applicationIdSuffix ".dev"
-            resValue "string","apikey","mmGURiqGYdzgsQ85aG5Mz3cjhBU29Pjh"
+            resValue "string", "apikey", apikeysProperties['NYT_APIKEY_DEV']
         }
         prod {
-            resValue "string","apikey","mmGURiqGYdzgsQ85aG5Mz3cjhBU29Pjh"
+            resValue "string", "apikey", apikeysProperties['NYT_APIKEY_PROD']
         }
     }
 }

@@ -1,9 +1,10 @@
-package com.nyt.mostpopular
+package com.nyt.bind
 
 import android.widget.ImageView
 import androidx.databinding.BindingAdapter
 import com.dastanapps.dastanlib.glide.GlideUtils
-import com.nyt.mostpopular.network.model.MediumB
+import com.nyt.mostpopular.R
+import com.nyt.network.model.MediumB
 
 /**
  * Data Binding adapters specific to the app.
