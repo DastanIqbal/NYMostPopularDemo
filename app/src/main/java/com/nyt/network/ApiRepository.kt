@@ -4,17 +4,6 @@ import com.nyt.network.model.ResultB
 import retrofit2.HttpException
 import java.net.UnknownHostException
 
-/**
- * Created by dastaniqbal on 26/11/2018.
- * 26/11/2018 10:08
- */
-enum class NetworkStates {
-    LOADING,
-    SUCCESS,
-    FAILED,
-    NOINTERNET
-}
-
 class ApiRepository {
     private val TAG = this::class.java.simpleName
 

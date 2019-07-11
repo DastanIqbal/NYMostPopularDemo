@@ -10,15 +10,10 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 
-
-/**
- * Created by dastaniqbal on 25/11/2018.
- * 25/11/2018 11:18
- */
 object ApiWrapper {
     private val TAG = this::class.java.simpleName
     private val SERVICE_URL = "https://api.nytimes.com/svc/mostpopular/v2/"
-    private val DEV_SERVICE_URL = SERVICE_URL//"http://api.techtraining.guru/mobileapi/"
+    private val DEV_SERVICE_URL = SERVICE_URL
     private var nytApi: INytApi? = null
 
     init {
