@@ -10,18 +10,15 @@ This app just shows how to use retrofit and coroutines with Android Lifecycle
 - Ubuntu 19.04
 
 ## Build 
-Import the project in Android Studio File->New->Import Project-><Select the project> NYMostPopular
-
-Create keys.properties in root folder(NYMostPopular)
+Import the project in Android Studio File->New->Import Project->NYMostPopularDemo
+Create keys.properties in root folder(NYMostPopularDemo)
 ```
 NYT_APIKEY_DEV="NY Dev API Key"
 NYT_APIKEY_PROD="NY Prod API Key"
-```
-
+```  
 Let the AS build and download all dependencies or Use Build->Rebuild Project
 Use Shift+F10 or Run->Run to Run the app in device/emulator
-
-Make sure you [enabled adb debugging][enable-adb] on your device(s). 
+Make sure you [enabled adb debugging][enable-adb] on your device(s).
 [enable-adb]: https://developer.android.com/studio/command-line/adb.html#Enabling
 
 ## Run Test
@@ -30,9 +27,3 @@ Select ```test/java/com/nyt/mostpopular/RepositoryTest``` Right Click-> Run Reps
 
 #### Instrumentation Test
 Select ```androidTest/java/com/nyt/mostpopular/mostviewed/MostViewedFragmentTest``` Right Click-> Run MostViewedFragmentTest
-
-
-
-
-
-
