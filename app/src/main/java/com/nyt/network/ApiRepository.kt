@@ -14,7 +14,10 @@ class ApiRepository {
 
     private fun mostViewedAsync(period: Int) = ApiWrapper.getAPI().mostViewed(period)
 
-    suspend fun mostViewed(period: Int = 1, networkStateCallback: (networkState: NetworkStates) -> Unit): List<ResultB> {
+    suspend fun mostViewed(
+        period: Int = 1,
+        networkStateCallback: (networkState: NetworkStates) -> Unit
+    ): List<ResultB> {
         return try {
             networkStateCallback.invoke(NetworkStates.LOADING)
 

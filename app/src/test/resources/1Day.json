@@ -1,0 +1,1213 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+  "num_results": 1491,
+  "results": [
+    {
+      "url": "https://www.nytimes.com/2019/07/10/us/black-woman-american-airlines-cover-up.html",
+      "adx_keywords": "Airlines and Airplanes;Blacks;Discrimination;Race and Ethnicity;Women and Girls;Flight Attendants;National Assn for the Advancement of Colored People;American Airlines;Johnson, Derrick (1968- );Houston (Tex);Jamaica (West Indies);Miami (Fla)",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By NEIL VIGDOR",
+      "type": "Article",
+      "title": "Woman Required to Cover Up on American Airlines Flight Says Race Was a Factor",
+      "abstract": "Dr. Tisha Rowe was about to fly from Jamaica to Miami when a flight attendant briefly removed her from the plane because of her romper, she said.",
+      "published_date": "2019-07-10",
+      "source": "The New York Times",
+      "id": 100000006603681,
+      "asset_id": 100000006603681,
+      "views": 1,
+      "des_facet": [
+        "AIRLINES AND AIRPLANES",
+        "BLACKS",
+        "DISCRIMINATION",
+        "RACE AND ETHNICITY"
+      ],
+      "org_facet": [
+        "WOMEN AND GIRLS",
+        "FLIGHT ATTENDANTS",
+        "NATIONAL ASSN FOR THE ADVANCEMENT OF COLORED PEOPLE",
+        "AMERICAN AIRLINES"
+      ],
+      "per_facet": [
+        "JOHNSON, DERRICK (1968- )"
+      ],
+      "geo_facet": [
+        "HOUSTON (TEX)",
+        "JAMAICA (WEST INDIES)",
+        "MIAMI (FLA)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dr. Tisha Rowe shared this selfie of the outfit she was wearing when she was asked to get off her June 30 flight.",
+          "copyright": "Tisha Rowe",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/multimedia/10xp-airline/10xp-airline-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/multimedia/10xp-airline/10xp-airline-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/multimedia/10xp-airline/10xp-airline-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/9fbc33a2-925a-515a-86d6-8de9b6c862c4"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/11/us/politics/ice-families-deport.html",
+      "adx_keywords": "Illegal Immigration;United States Politics and Government;Humanitarian Aid;Deportation;Immigration and Customs Enforcement (US);Homeland Security Department;McAleenan, Kevin K;Morgan, Mark A;Trump, Donald J",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By CAITLIN DICKERSON and ZOLAN KANNO-YOUNGS",
+      "type": "Article",
+      "title": "U.S. Prepares to Arrest Thousands of Immigrant Family Members",
+      "abstract": "Some of those targeted might end up being held in hotel rooms until their travel documents can be prepared. ICE’s goal is to deport the families as quickly as possible.",
+      "published_date": "2019-07-11",
+      "source": "The New York Times",
+      "id": 100000006598456,
+      "asset_id": 100000006598456,
+      "views": 2,
+      "des_facet": [
+        "ILLEGAL IMMIGRATION",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "HUMANITARIAN AID",
+        "DEPORTATION",
+        "IMMIGRATION AND CUSTOMS ENFORCEMENT (US)",
+        "HOMELAND SECURITY DEPARTMENT"
+      ],
+      "per_facet": [
+        "MCALEENAN, KEVIN K",
+        "MORGAN, MARK A",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An Immigration and Customs Enforcement agent as deportations were being carried out in November in Houston.",
+          "copyright": "David J. Phillip/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/08/10/world/10dc-ice-1/10dc-ice-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/08/10/world/10dc-ice-1/10dc-ice-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/08/10/world/10dc-ice-1/10dc-ice-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/5600b668-1dff-566b-80ee-9fded928803e"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/09/us/politics/trump-epstein.html",
+      "adx_keywords": "Presidential Election of 2016;United States Politics and Government;Mar-a-Lago (Palm Beach, Fla);New York (Magazine);Clinton, Bill;Cohen, Michael D (1966- );Dershowitz, Alan M;Epstein, Jeffrey E (1953- );Lewandowski, Corey (1975- );Nunberg, Sam;Pecker, David J;Stone, Roger J Jr;Trump, Donald J;Trump, Melania",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By ANNIE KARNI and MAGGIE HABERMAN",
+      "type": "Article",
+      "title": "Jeffrey Epstein Was a ‘Terrific Guy,’ Donald Trump Once Said. Now He’s ‘Not a Fan.’",
+      "abstract": "Through a mutual appreciation of wealth, women and years of occupying adjacent real estate in Palm Beach and on Page Six, the lives of the two men routinely intersected for decades.",
+      "published_date": "2019-07-09",
+      "source": "The New York Times",
+      "id": 100000006602617,
+      "asset_id": 100000006602617,
+      "views": 3,
+      "des_facet": [
+        "PRESIDENTIAL ELECTION OF 2016",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "MAR-A-LAGO (PALM BEACH, FLA)",
+        "NEW YORK (MAGAZINE)"
+      ],
+      "per_facet": [
+        "CLINTON, BILL",
+        "COHEN, MICHAEL D (1966- )",
+        "DERSHOWITZ, ALAN M",
+        "EPSTEIN, JEFFREY E (1953- )",
+        "LEWANDOWSKI, COREY (1975- )",
+        "NUNBERG, SAM",
+        "PECKER, DAVID J",
+        "STONE, ROGER J JR",
+        "TRUMP, DONALD J",
+        "TRUMP, MELANIA"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Donald J. Trump with Jeffrey Epstein in 1997 in Palm Beach, Fla. Their lives intersected for decades before a falling out.",
+          "copyright": "Davidoff Studios/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/us/politics/09dc-trumpspstein1/09dc-trumpspstein1-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/us/politics/09dc-trumpspstein1/09dc-trumpspstein1-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/us/politics/09dc-trumpspstein1/09dc-trumpspstein1-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/2883a800-c555-5a46-be62-5c708ba31b6a"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/09/business/media/miami-herald-epstein.html",
+      "adx_keywords": "News and News Media;Newspapers;Miami Herald;Epstein, Jeffrey E (1953- );Brown, Julie K (Journalist);Child Abuse and Neglect;Prostitution;Human Trafficking;Acosta, R Alexander;Michot, Emily",
+      "column": null,
+      "section": "Business",
+      "byline": "By TIFFANY HSU",
+      "type": "Article",
+      "title": "The Jeffrey Epstein Case Was Cold, Until a Miami Herald Reporter Got Accusers to Talk",
+      "abstract": "The case seemed cold when a Miami Herald investigative journalist started looking into it. Then she persuaded accusers to tell their stories.",
+      "published_date": "2019-07-09",
+      "source": "The New York Times",
+      "id": 100000006601298,
+      "asset_id": 100000006601298,
+      "views": 4,
+      "des_facet": [
+        "NEWS AND NEWS MEDIA",
+        "NEWSPAPERS",
+        "CHILD ABUSE AND NEGLECT"
+      ],
+      "org_facet": [
+        "MIAMI HERALD",
+        "PROSTITUTION",
+        "HUMAN TRAFFICKING"
+      ],
+      "per_facet": [
+        "EPSTEIN, JEFFREY E (1953- )",
+        "BROWN, JULIE K (JOURNALIST)",
+        "ACOSTA, R ALEXANDER",
+        "MICHOT, EMILY"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Julie K. Brown, the Miami Herald reporter who dug deep into the Jeffrey Epstein case.",
+          "copyright": "Emily Michot/Miami Herald",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/business/09MIAMIREPORTER-SUB/09MIAMIREPORTER-SUB-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/business/09MIAMIREPORTER-SUB/09MIAMIREPORTER-SUB-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/business/09MIAMIREPORTER-SUB/09MIAMIREPORTER-SUB-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/d1c6f5bc-763d-5ae4-874d-0d45da06649c"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/10/world/europe/kim-darroch-trump.html",
+      "adx_keywords": "Darroch, Kim (1954- );Great Britain;Trump, Donald J;United States International Relations;Diplomatic Service, Embassies and Consulates;United States Politics and Government;State Department",
+      "column": null,
+      "section": "World",
+      "byline": "By DAVID E. SANGER",
+      "type": "Article",
+      "title": "‘It Could Have Been Any of Us’: Disdain for Trump Runs Among Ambassadors",
+      "abstract": "Sir Kim Darroch, the British ambassador who resigned Wednesday, was not alone in his criticism of the Trump administration and its habit of leaving foreign envoys in the dark.",
+      "published_date": "2019-07-10",
+      "source": "The New York Times",
+      "id": 100000006604650,
+      "asset_id": 100000006604650,
+      "views": 5,
+      "des_facet": [
+        "UNITED STATES INTERNATIONAL RELATIONS",
+        "DIPLOMATIC SERVICE, EMBASSIES AND CONSULATES",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "STATE DEPARTMENT"
+      ],
+      "per_facet": [
+        "DARROCH, KIM (1954- )",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "GREAT BRITAIN"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sir Kim Darroch in 2017. Mr. Darroch often tried to reach out to the White House and the National Security Council, but he never quite felt that he broke into the Trump administration’s inner circle.",
+          "copyright": "Alex Wong/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/us/10DC-DIPLO-1/10DC-DIPLO-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/us/10DC-DIPLO-1/10DC-DIPLO-1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/us/10DC-DIPLO-1/10DC-DIPLO-1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/d7f41e54-1e12-5087-848e-21958f90c2e8"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/09/us/politics/mueller-testimony-justice-department.html",
+      "adx_keywords": "United States Politics and Government;Russian Interference in 2016 US Elections and Ties to Trump Associates;Special Prosecutors (Independent Counsel);Democratic Party;House of Representatives;Barr, William P;Mueller, Robert S III;Schiff, Adam B;Trump, Donald J",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By NICHOLAS FANDOS and KATIE BENNER",
+      "type": "Article",
+      "title": "Justice Dept. Tells Mueller Deputies Not to Testify, Scrambling an Agreement",
+      "abstract": "The department’s intervention raises the prospect that a deal lawmakers thought they had struck last month for testimony from Robert Mueller and two prosecutors could still unravel.",
+      "published_date": "2019-07-09",
+      "source": "The New York Times",
+      "id": 100000006603847,
+      "asset_id": 100000006603847,
+      "views": 6,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+        "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)"
+      ],
+      "org_facet": [
+        "DEMOCRATIC PARTY",
+        "HOUSE OF REPRESENTATIVES"
+      ],
+      "per_facet": [
+        "BARR, WILLIAM P",
+        "MUELLER, ROBERT S III",
+        "SCHIFF, ADAM B",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James L. Quarles III, left, and Aaron Zebley, former members of Robert S. Mueller III’s team, in March in Washington.",
+          "copyright": "Tom Brenner for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/us/politics/09dc-mueller1/09dc-mueller1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/us/politics/09dc-mueller1/09dc-mueller1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/us/politics/09dc-mueller1/09dc-mueller1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/e9ac3724-c042-5143-988f-2908a4a4e590"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/10/sports/soccer/soccer-parade.html",
+      "adx_keywords": "United States Women's National Soccer Team;Women's World Cup (Soccer);Soccer;Parades;Manhattan (NYC)",
+      "column": null,
+      "section": "Sports",
+      "byline": "By VICTOR MATHER and DANIELLE ALLENTUCK",
+      "type": "Article",
+      "title": "Megan Rapinoe Steals the Show at the Women’s World Cup Parade",
+      "abstract": "After a parade up Broadway, Rapinoe said, “We have to love more and hate less.”",
+      "published_date": "2019-07-10",
+      "source": "The New York Times",
+      "id": 100000006603131,
+      "asset_id": 100000006603131,
+      "views": 7,
+      "des_facet": [
+        "WOMEN'S WORLD CUP (SOCCER)",
+        "SOCCER",
+        "PARADES"
+      ],
+      "org_facet": [
+        "UNITED STATES WOMEN'S NATIONAL SOCCER TEAM"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "MANHATTAN (NYC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The U.S. women’s soccer team after the World Cup celebratory parade at City Hall.",
+          "copyright": "Calla Kessler/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/11/sports/10parade-live-promo-02/10parade-live-promo-02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/11/sports/10parade-live-promo-02/merlin_157761048_7409229c-59b5-405d-92ca-7c16a79d80a6-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/11/sports/10parade-live-promo-02/merlin_157761048_7409229c-59b5-405d-92ca-7c16a79d80a6-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/7a4474c5-e01d-5285-a631-292902e9249f"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/10/business/jeffrey-epstein-net-worth.html",
+      "adx_keywords": "Epstein, Jeffrey E (1953- );High Net Worth Individuals;Wexner, Leslie H;Sex Crimes;Ponzi and Pyramid Schemes;Bear Stearns Cos;Dalton School;Deutsche Bank AG;Black, Leon D;Hoffenberg, Steven;Human Trafficking;Prostitution;Child Abuse and Neglect",
+      "column": null,
+      "section": "Business",
+      "byline": "By JAMES B. STEWART, MATTHEW GOLDSTEIN, KATE KELLY and DAVID ENRICH",
+      "type": "Article",
+      "title": "Jeffrey Epstein’s Fortune May Be More Illusion Than Fact",
+      "abstract": "Mr. Epstein, facing sex-trafficking charges, has long been described as a billionaire and hailed as a financial wizard. But the source of his wealth is murky.",
+      "published_date": "2019-07-10",
+      "source": "The New York Times",
+      "id": 100000006600778,
+      "asset_id": 100000006600778,
+      "views": 8,
+      "des_facet": "",
+      "org_facet": [
+        "HIGH NET WORTH INDIVIDUALS",
+        "SEX CRIMES",
+        "PONZI AND PYRAMID SCHEMES",
+        "BEAR STEARNS COS",
+        "DALTON SCHOOL",
+        "DEUTSCHE BANK AG",
+        "HUMAN TRAFFICKING",
+        "PROSTITUTION",
+        "CHILD ABUSE AND NEGLECT"
+      ],
+      "per_facet": [
+        "EPSTEIN, JEFFREY E (1953- )",
+        "WEXNER, LESLIE H",
+        "BLACK, LEON D",
+        "HOFFENBERG, STEVEN"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protesters held up photographs of Jeffrey Epstein, a financier facing sex-trafficking charges, outside the federal courthouse in Manhattan on Monday.",
+          "copyright": "Stephanie Keith/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/business/09epstein1/09epstein1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/business/09epstein1/09epstein1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/business/09epstein1/09epstein1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/057d7c57-68e3-56ce-9093-383fbc6bc7a6"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/10/science/skull-neanderthal-human-europe-greece.html",
+      "adx_keywords": "Neanderthal Man;Paleontology;Skull (Body Part);Fossils;Archaeology and Anthropology;Caves and Caverns;Griffith University (Queensland, Australia);Nature (Journal);Greece;Germany;Harvati, Katerina;University of Tubingen;your-feed-science",
+      "column": "Matter",
+      "section": "Science",
+      "byline": "By CARL ZIMMER",
+      "type": "Article",
+      "title": "A Skull Bone Discovered in Greece May Alter the Story of Human Prehistory",
+      "abstract": "The bone, found in a cave, is the oldest modern human fossil ever discovered in Europe. It hints that humans began leaving Africa far earlier than once thought.",
+      "published_date": "2019-07-10",
+      "source": "The New York Times",
+      "id": 100000006603766,
+      "asset_id": 100000006603766,
+      "views": 9,
+      "des_facet": [
+        "NEANDERTHAL MAN",
+        "PALEONTOLOGY",
+        "SKULL (BODY PART)",
+        "YOUR-FEED-SCIENCE"
+      ],
+      "org_facet": [
+        "FOSSILS",
+        "ARCHAEOLOGY AND ANTHROPOLOGY",
+        "CAVES AND CAVERNS",
+        "GRIFFITH UNIVERSITY (QUEENSLAND, AUSTRALIA)",
+        "NATURE (JOURNAL)",
+        "UNIVERSITY OF TUBINGEN"
+      ],
+      "per_facet": [
+        "HARVATI, KATERINA"
+      ],
+      "geo_facet": [
+        "GREECE",
+        "GERMANY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A reconstruction of Apidima 2, which was shown to be a Neanderthal skull. A far older skull fragment, Apidima 1, was also assumed to be Neanderthal, but scientists now say it belonged to a modern human.",
+          "copyright": "Katerina Harvati, Eberhard Karls University of Tübingen",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/science/10SCI-ZIMMER1/10SCI-ZIMMER1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/science/10SCI-ZIMMER1/10SCI-ZIMMER1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/science/10SCI-ZIMMER1/10SCI-ZIMMER1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/d34d67d4-ccfe-507c-896e-bbdce8c5d049"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/10/world/europe/kim-darroch-resigns.html",
+      "adx_keywords": "Politics and Government;Diplomatic Service, Embassies and Consulates;Darroch, Kim (1954- );Trump, Donald J;Great Britain;United States",
+      "column": null,
+      "section": "World",
+      "byline": "By STEPHEN CASTLE",
+      "type": "Article",
+      "title": "Kim Darroch, U.K. Ambassador, Resigns After Leak of Trump Memos",
+      "abstract": "Mr. Darroch said he could no longer perform his role after the leak of his memos calling the Trump administration “clumsy and inept” and President Trump’s angry reaction.",
+      "published_date": "2019-07-10",
+      "source": "The New York Times",
+      "id": 100000006604283,
+      "asset_id": 100000006604283,
+      "views": 10,
+      "des_facet": [
+        "POLITICS AND GOVERNMENT",
+        "DIPLOMATIC SERVICE, EMBASSIES AND CONSULATES"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "DARROCH, KIM (1954- )",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "GREAT BRITAIN",
+        "UNITED STATES"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kim Darroch, the British Ambassador to the United States, in Washington in 2017.",
+          "copyright": "Sait Serkan Gurbuz/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/world/10darroch/10darroch-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/world/10darroch/10darroch-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/world/10darroch/10darroch-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/64c2b9cf-2585-58f2-b71b-61230eab3fee"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/10/world/europe/merkel-shaking.html",
+      "adx_keywords": "Merkel, Angela;Germany",
+      "column": null,
+      "section": "World",
+      "byline": "By MELISSA EDDY",
+      "type": "Article",
+      "title": "Merkel Is Seen Shaking Again, Renewing Health Concerns",
+      "abstract": "It was the third time in less than a month that Chancellor Angela Merkel of Germany had been seen trembling, but she insisted that her health was fine.",
+      "published_date": "2019-07-10",
+      "source": "The New York Times",
+      "id": 100000006604261,
+      "asset_id": 100000006604261,
+      "views": 11,
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": [
+        "MERKEL, ANGELA"
+      ],
+      "geo_facet": [
+        "GERMANY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chancellor Angela Merkel, right, and Prime Minister of Finland Antti Rinne in Berlin, on Wednesday.",
+          "copyright": "Markus Schreiber/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/world/10Merkel/10Merkel-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/world/10Merkel/10Merkel-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/world/10Merkel/10Merkel-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/6adc6054-9725-5946-b436-d5ee37092004"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/07/smarter-living/its-never-going-to-be-perfect-so-just-get-it-done.html",
+      "adx_keywords": "Work-Life Balance;Writing and Writers;perfectionism",
+      "column": null,
+      "section": "Smarter Living",
+      "byline": "By TIM HERRERA",
+      "type": "Article",
+      "title": "It’s Never Going to Be Perfect, So Just Get It Done",
+      "abstract": "Voltaire was right.",
+      "published_date": "2019-07-07",
+      "source": "The New York Times",
+      "id": 100000006521418,
+      "asset_id": 100000006521418,
+      "views": 12,
+      "des_facet": [
+        "WORK-LIFE BALANCE",
+        "WRITING AND WRITERS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/08/smarter-living/27sl_newsletter/27sl_newsletter-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/08/smarter-living/27sl_newsletter/cd4515855c06404e97d220c916de76ee-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/08/smarter-living/27sl_newsletter/cd4515855c06404e97d220c916de76ee-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/1e38c0e7-f015-53d8-b62c-c72e303e2880"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/09/world/europe/france-telecom-trial.html",
+      "adx_keywords": "France;Orange SA;Suicides and Suicide Attempts;Workplace Hazards and Violations;Labor and Jobs",
+      "column": null,
+      "section": "World",
+      "byline": "By ADAM NOSSITER",
+      "type": "Article",
+      "title": "35 Employees Committed Suicide. Will Their Bosses Go to Jail?",
+      "abstract": "After a wave of worker suicides under their management, former executives at France Télécom have been charged with the crime of “moral harassment.”",
+      "published_date": "2019-07-09",
+      "source": "The New York Times",
+      "id": 100000006594678,
+      "asset_id": 100000006594678,
+      "views": 13,
+      "des_facet": [
+        "WORKPLACE HAZARDS AND VIOLATIONS",
+        "LABOR AND JOBS"
+      ],
+      "org_facet": [
+        "ORANGE SA",
+        "SUICIDES AND SUICIDE ATTEMPTS"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "FRANCE"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "French union members outside the Paris courthouse at the start of the trial of France Télécom in May.",
+          "copyright": "Thibault Camus/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/05/world/xxfrance-trial1/xxfrance-trial1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/05/world/xxfrance-trial1/xxfrance-trial1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/05/world/xxfrance-trial1/xxfrance-trial1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/51315b6e-f7a3-5c4f-8125-a5259fe8a985"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/09/us/politics/trump-twitter-first-amendment.html",
+      "adx_keywords": "Trump, Donald J;Twitter;Social Media;First Amendment (US Constitution);Decisions and Verdicts;Suits and Litigation (Civil);United States Politics and Government;Justice Department",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By CHARLIE SAVAGE",
+      "type": "Article",
+      "title": "Trump Can’t Block Critics From His Twitter Account, Appeals Court Rules",
+      "abstract": "The decision may have broader implications for how the First Amendment applies to officials’ accounts in the social-media era.",
+      "published_date": "2019-07-09",
+      "source": "The New York Times",
+      "id": 100000006602571,
+      "asset_id": 100000006602571,
+      "views": 14,
+      "des_facet": [
+        "SOCIAL MEDIA",
+        "DECISIONS AND VERDICTS",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "TWITTER",
+        "FIRST AMENDMENT (US CONSTITUTION)",
+        "SUITS AND LITIGATION (CIVIL)",
+        "JUSTICE DEPARTMENT"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Because President Trump uses Twitter to conduct government business, he cannot exclude some Americans from reading his posts, a federal court ruled.",
+          "copyright": "Anna Moneymaker/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/us/politics/09dc-trumptwitter/09dc-trumptwitter-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/us/politics/09dc-trumptwitter/merlin_157682373_cec5b0fc-0083-4ac5-9179-fc3a2ac4efa0-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/us/politics/09dc-trumptwitter/merlin_157682373_cec5b0fc-0083-4ac5-9179-fc3a2ac4efa0-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/33702e0d-144f-58fe-861e-5010d9c4927b"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/10/dining/dean-and-deluca-closes-stores.html",
+      "adx_keywords": "Shutdowns (Institutional);Mergers, Acquisitions and Divestitures;Bakeries and Baked Products;Shopping and Retail;Dean & Deluca;New York City",
+      "column": null,
+      "section": "Food",
+      "byline": "By JULIA MOSKIN",
+      "type": "Article",
+      "title": "Dean & DeLuca Closes Stores as Debts Pile Up",
+      "abstract": "The luxury food chain, which has closed locations in New York and California and let shelves in remaining stores grow bare, has stopped paying many of its vendors.",
+      "published_date": "2019-07-10",
+      "source": "The New York Times",
+      "id": 100000006594468,
+      "asset_id": 100000006594468,
+      "views": 15,
+      "des_facet": [
+        "SHUTDOWNS (INSTITUTIONAL)",
+        "MERGERS, ACQUISITIONS AND DIVESTITURES",
+        "BAKERIES AND BAKED PRODUCTS"
+      ],
+      "org_facet": [
+        "SHOPPING AND RETAIL",
+        "DEAN & DELUCA"
+      ],
+      "per_facet": "",
+      "geo_facet": [
+        "NEW YORK CITY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The flagship store of Dean &amp; DeLuca in SoHo, known for introducing Americans to rare ingredients and artisanal food.",
+          "copyright": "Yeong-Ung Yang for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/03/dining/00dean1/00dean1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/03/dining/00dean1/merlin_107098195_bb5a2df8-d014-4804-87b3-11b5f9947392-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/03/dining/00dean1/merlin_107098195_bb5a2df8-d014-4804-87b3-11b5f9947392-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/976ab140-9d23-5f54-813d-cc1e162bd635"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/10/us/border-migrants-remain-mexico.html",
+      "adx_keywords": "Immigration and Emigration;Illegal Immigration;Asylum, Right of;Customs and Border Protection (US);International Organization for Migration;California;Mexico;San Diego (Calif);Nuevo Laredo (Mexico);Trump, Donald J;United States Politics and Government",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By MIRIAM JORDAN and KIRK SEMPLE",
+      "type": "Article",
+      "title": "A Sharp Drop in Migrant Arrivals on the Border: What’s Happening?",
+      "abstract": "A migrant shelter in San Diego that a month ago was crowded with arrivals was nearly empty this week as migrant apprehensions have dropped sharply.",
+      "published_date": "2019-07-10",
+      "source": "The New York Times",
+      "id": 100000006603733,
+      "asset_id": 100000006603733,
+      "views": 16,
+      "des_facet": [
+        "IMMIGRATION AND EMIGRATION",
+        "ILLEGAL IMMIGRATION",
+        "ASYLUM, RIGHT OF",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "CUSTOMS AND BORDER PROTECTION (US)",
+        "INTERNATIONAL ORGANIZATION FOR MIGRATION"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "CALIFORNIA",
+        "MEXICO",
+        "SAN DIEGO (CALIF)",
+        "NUEVO LAREDO (MEXICO)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People crossed the bridge from Nuevo Laredo, Mexico, to Laredo, Tex., on Wednesday.",
+          "copyright": "Luis Antonio Rojas for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/us/10border-hp/10border-hp-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/us/10border-hp/10border-hp-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/10/us/10border-hp/10border-hp-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/2681f1a4-bfe9-5523-802d-983aa8a07585"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-charges.html",
+      "adx_keywords": "Epstein, Jeffrey E (1953- );Sex Crimes;Child Abuse and Neglect;#MeToo Movement;Acosta, R Alexander;Human Trafficking;Upper East Side (Manhattan, NY);Clinton, Bill;Berman, Geoffrey S;Prostitution",
+      "column": null,
+      "section": "New York",
+      "byline": "By ALI WATKINS",
+      "type": "Article",
+      "title": "Jeffrey Epstein Is Indicted on Sex Charges as Discovery of Nude Photos Is Disclosed",
+      "abstract": "Lurid pictures found in the financier’s home could prompt a reckoning for the Justice Department, which has been accused of mishandling the case a decade ago.",
+      "published_date": "2019-07-08",
+      "source": "The New York Times",
+      "id": 100000006600199,
+      "asset_id": 100000006600199,
+      "views": 17,
+      "des_facet": [
+        "CHILD ABUSE AND NEGLECT",
+        "#METOO MOVEMENT",
+        "PROSTITUTION"
+      ],
+      "org_facet": [
+        "SEX CRIMES",
+        "HUMAN TRAFFICKING"
+      ],
+      "per_facet": [
+        "EPSTEIN, JEFFREY E (1953- )",
+        "ACOSTA, R ALEXANDER",
+        "CLINTON, BILL",
+        "BERMAN, GEOFFREY S"
+      ],
+      "geo_facet": [
+        "UPPER EAST SIDE (MANHATTAN, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Agents forcing open the doors of Mr. Epstein’s mansion on East 71st Street on Saturday.",
+          "copyright": "Steven M. L. Aronson",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/08/nyregion/09epstein02-hp-promo/09epstein02-hp-promo-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/08/nyregion/09epstein02-hp-promo/merlin_157655589_6fac402a-765b-4e32-a85b-7808850a8cfa-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/08/nyregion/09epstein02-hp-promo/merlin_157655589_6fac402a-765b-4e32-a85b-7808850a8cfa-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/e483c40d-e336-59db-87a2-55bec5dc7822"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/03/25/smarter-living/why-you-procrastinate-it-has-nothing-to-do-with-self-control.html",
+      "adx_keywords": "Procrastination;Emotions;Psychology and Psychologists;Anxiety and Stress;Boredom",
+      "column": null,
+      "section": "Smarter Living",
+      "byline": "By CHARLOTTE LIEBERMAN",
+      "type": "Article",
+      "title": "Why You Procrastinate (It Has Nothing to Do With Self-Control)",
+      "abstract": "If procrastination isn’t about laziness, then what is it about?",
+      "published_date": "2019-03-25",
+      "source": "The New York Times",
+      "id": 100000006416140,
+      "asset_id": 100000006416140,
+      "views": 18,
+      "des_facet": [
+        "PROCRASTINATION",
+        "PSYCHOLOGY AND PSYCHOLOGISTS",
+        "ANXIETY AND STRESS"
+      ],
+      "org_facet": [
+        "EMOTIONS",
+        "BOREDOM"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erik Winkowski",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/03/25/smarter-living/25sl_procrastination_promo/25sl_procrastination_promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/03/25/smarter-living/25sl_procrastination_promo/25sl_procrastination_promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/03/25/smarter-living/25sl_procrastination_promo/25sl_procrastination_promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/166a9d7f-8edd-5ae8-88e5-30a6e80e646e"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/09/nyregion/jeffrey-epstein-who-is-he.html",
+      "adx_keywords": "Human Trafficking;Epstein, Jeffrey E (1953- );Manhattan (NYC);Palm Beach (Fla);Berman, Geoffrey S;Acosta, R Alexander;Sex Crimes",
+      "column": null,
+      "section": "New York",
+      "byline": "By JAMES BARRON",
+      "type": "Article",
+      "title": "Who Is Jeffrey Epstein? An Opulent Life, Celebrity Friends and Lurid Accusations",
+      "abstract": "The money manager once socialized with celebrities, presidents and princes but remained an enigma.",
+      "published_date": "2019-07-09",
+      "source": "The New York Times",
+      "id": 100000006601894,
+      "asset_id": 100000006601894,
+      "views": 19,
+      "des_facet": [
+        "SEX CRIMES"
+      ],
+      "org_facet": [
+        "HUMAN TRAFFICKING"
+      ],
+      "per_facet": [
+        "EPSTEIN, JEFFREY E (1953- )",
+        "BERMAN, GEOFFREY S",
+        "ACOSTA, R ALEXANDER"
+      ],
+      "geo_facet": [
+        "MANHATTAN (NYC)",
+        "PALM BEACH (FLA)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rick Friedman/Corbis, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09eppsteinVIDEO/09eppsteinVIDEO-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09eppsteinVIDEO/09eppsteinVIDEO-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09eppsteinVIDEO/09eppsteinVIDEO-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/e7cfc1dc-3147-5eca-a846-b931e9171758"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/07/10/magazine/streaming-race-netflix-hbo-hulu-amazon.html",
+      "adx_keywords": "Netflix Inc;Home Box Office;Hulu.com;Web-Original Programming;Television;Cable Television;Data-Mining and Database Marketing;Friends (TV Program);Game of Thrones (TV Program);AT&T Inc;Amazon.com Inc;A24 Films LLC;Cartoon Network;Walt Disney Company",
+      "column": "Feature",
+      "section": "Magazine",
+      "byline": "By JONAH WEINER",
+      "type": "Article",
+      "title": "The Great Race to Rule Streaming TV",
+      "abstract": "In their rush to match Netflix, competitors like HBO, Hulu and Amazon are ordering a slew of content — ushering out the age of “prestige TV” and ushering in an age of anything goes.",
+      "published_date": "2019-07-10",
+      "source": "The New York Times",
+      "id": 100000006595567,
+      "asset_id": 100000006595567,
+      "views": 20,
+      "des_facet": [
+        "WEB-ORIGINAL PROGRAMMING",
+        "TELEVISION"
+      ],
+      "org_facet": [
+        "NETFLIX INC",
+        "HOME BOX OFFICE",
+        "HULU.COM",
+        "CABLE TELEVISION",
+        "DATA-MINING AND DATABASE MARKETING",
+        "AT&T INC",
+        "AMAZON.COM INC",
+        "A24 FILMS LLC",
+        "CARTOON NETWORK",
+        "WALT DISNEY COMPANY"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Giacomo Gambineri",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/magazine/714mag-streamers1/714mag-streamers1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/magazine/714mag-streamers1/714mag-streamers1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/07/09/magazine/714mag-streamers1/714mag-streamers1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/61c81312-6833-5765-a2bd-5b08277e3cd8"
+    }
+  ]
+}
