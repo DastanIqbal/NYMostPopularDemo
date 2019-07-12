@@ -11,7 +11,8 @@ This app just shows how to use retrofit and coroutines with Android Lifecycle
 
 ## Build 
 Import the project in Android Studio File->New->Import Project->NYMostPopularDemo
-Create keys.properties in root folder(NYMostPopularDemo)
+
+Create ```keys.properties``` in root folder(NYMostPopularDemo)
 ```
 NYT_APIKEY_DEV="NY Dev API Key"
 NYT_APIKEY_PROD="NY Prod API Key"
