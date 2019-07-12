@@ -17,7 +17,9 @@ NYT_APIKEY_DEV="NY Dev API Key"
 NYT_APIKEY_PROD="NY Prod API Key"
 ```  
 Let the AS build and download all dependencies or Use Build->Rebuild Project
+
 Use Shift+F10 or Run->Run to Run the app in device/emulator
+
 Make sure you [enabled adb debugging][enable-adb] on your device(s).
 [enable-adb]: https://developer.android.com/studio/command-line/adb.html#Enabling
 
