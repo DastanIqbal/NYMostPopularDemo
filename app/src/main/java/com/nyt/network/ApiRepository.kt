@@ -15,7 +15,7 @@ class ApiRepository {
 
     suspend fun mostViewed(
         period: Int = 1,
-        networkStateCallback: (networkState: NetworkStates) -> Unit
+        networkStateCallback: (networkState: Int) -> Unit
     ): List<ResultB> {
         return try {
             networkStateCallback.invoke(NetworkStates.LOADING)

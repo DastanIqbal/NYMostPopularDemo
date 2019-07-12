@@ -1,8 +1,8 @@
 package com.nyt.network
 
-enum class NetworkStates {
-    LOADING,
-    SUCCESS,
-    FAILED,
-    NOINTERNET
+object NetworkStates {
+    const val LOADING = 1
+    const val SUCCESS = 2
+    const val FAILED = 3
+    const val NOINTERNET = 4
 }

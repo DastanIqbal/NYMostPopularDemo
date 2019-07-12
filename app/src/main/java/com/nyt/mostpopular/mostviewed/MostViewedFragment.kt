@@ -24,8 +24,8 @@ class MostViewedFragment : Fragment() {
     private lateinit var viewModel: MostViewedViewModel
 
     override fun onCreateView(
-            inflater: LayoutInflater, container: ViewGroup?,
-            savedInstanceState: Bundle?
+        inflater: LayoutInflater, container: ViewGroup?,
+        savedInstanceState: Bundle?
     ): View {
         return inflater.inflate(R.layout.mostviewed_fragment, container, false)
     }
@@ -61,14 +61,15 @@ class MostViewedFragment : Fragment() {
 
         viewModel.networkStatusLiveData.observe(this, {
             when (it) {
+                NetworkStates.LOADING -> pb.visibility = View.VISIBLE
                 NetworkStates.NOINTERNET -> checkNetworkConnections() //Renable No-Network UI when retry
-                NetworkStates.FAILED-> {
+                NetworkStates.FAILED -> {
                     rv.visibility = View.GONE
                     pb.visibility = View.GONE
                     ll_nodata.visibility = View.VISIBLE
                     textView.setText(R.string.no_data_found)
                 }
-                NetworkStates.SUCCESS-> {
+                NetworkStates.SUCCESS -> {
                     rv.visibility = View.VISIBLE
                     pb.visibility = View.GONE
                     ll_nodata.visibility = View.GONE

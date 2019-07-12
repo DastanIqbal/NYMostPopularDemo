@@ -12,7 +12,7 @@ import kotlinx.coroutines.launch
 class MostViewedViewModel : ViewModel() {
     private val repository = ApiRepository.INSTANCE
     var mostViewedList = MutableLiveData<List<ResultB>>()
-    var networkStatusLiveData = MutableLiveData<NetworkStates>()
+    var networkStatusLiveData = MutableLiveData<Int>()
 
     private var period = 1
 
@@ -30,6 +30,7 @@ class MostViewedViewModel : ViewModel() {
     }
 
     fun reload() {
+        networkStatusLiveData.postValue(NetworkStates.LOADING)
         loadMostViewedList()
     }
 
