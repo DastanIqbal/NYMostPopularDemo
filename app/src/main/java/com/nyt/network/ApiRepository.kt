@@ -1,7 +1,6 @@
 package com.nyt.network
 
 import com.nyt.network.model.ResultB
-import retrofit2.HttpException
 import java.net.UnknownHostException
 
 class ApiRepository {
@@ -32,11 +31,10 @@ class ApiRepository {
                 emptyList()
             }
         } catch (e: Exception) {
-            if (e is HttpException) {
-                //TODO: Handle Error e.code() e.message e.response()
-                networkStateCallback.invoke(NetworkStates.FAILED)
-            } else if (e is UnknownHostException) {
+            if (e is UnknownHostException) {
                 networkStateCallback.invoke(NetworkStates.NOINTERNET)
+            } else {
+                networkStateCallback.invoke(NetworkStates.FAILED)
             }
             e.printStackTrace()
             emptyList()

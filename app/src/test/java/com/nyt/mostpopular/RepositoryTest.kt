@@ -4,11 +4,9 @@ import com.nyt.network.ApiRepository
 import com.nyt.network.ApiWrapper
 import junit.framework.Assert
 import kotlinx.coroutines.runBlocking
-import okhttp3.mockwebserver.MockResponse
 import org.junit.Test
 import org.junit.runner.RunWith
 import org.junit.runners.JUnit4
-import java.io.File
 import java.net.HttpURLConnection
 
 /**
@@ -21,22 +19,13 @@ class RepositoryTest : MockServerTest() {
 
     private val repo = ApiRepository.INSTANCE
 
-    fun mockHttpResponse(fileName: String, responseCode: Int) =
-        mockServer.enqueue(
-            MockResponse()
-                .setResponseCode(responseCode)
-                .setBody(getJson(fileName))
-        )
-
-    private fun getJson(path: String): String {
-        val uri = javaClass.classLoader?.getResource(path)!!
-        val file = File(uri.path)
-        return String(file.readBytes())
+    override fun setUp() {
+        super.setUp()
+        ApiWrapper.SERVICE_URL = getMockUrl()
     }
 
     @Test
     fun successResponse() {
-        ApiWrapper.SERVICE_URL = getMockUrl()
         mockHttpResponse("1Day.json", HttpURLConnection.HTTP_OK)
         runBlocking {
             val result = repo.mostViewed(1) {

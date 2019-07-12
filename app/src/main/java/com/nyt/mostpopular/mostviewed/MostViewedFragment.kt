@@ -58,23 +58,28 @@ class MostViewedFragment : Fragment() {
                 adapter = mvAdap
             }
         })
-        viewModel.showProgressLiveData.observe(this, {
-            with(pb) {
-                visibility = if (it) {
-                    rv.visibility = View.GONE
-                    View.VISIBLE
-                } else {
-                    rv.visibility = View.VISIBLE
-                    View.GONE
-                }
-            }
-        })
 
         viewModel.networkStatusLiveData.observe(this, {
             when (it) {
                 NetworkStates.NOINTERNET -> checkNetworkConnections() //Renable No-Network UI when retry
+                NetworkStates.FAILED-> {
+                    rv.visibility = View.GONE
+                    pb.visibility = View.GONE
+                    ll_nodata.visibility = View.VISIBLE
+                    textView.setText(R.string.no_data_found)
+                }
+                NetworkStates.SUCCESS-> {
+                    rv.visibility = View.VISIBLE
+                    pb.visibility = View.GONE
+                    ll_nodata.visibility = View.GONE
+                }
             }
         })
+
+        btn_retry.setOnClickListener {
+            viewModel.reload()
+            ll_nodata.visibility = View.GONE
+        }
     }
 
     private fun checkNetworkConnections() {
@@ -86,11 +91,6 @@ class MostViewedFragment : Fragment() {
             rv.visibility = View.GONE
             pb.visibility = View.GONE
             ll_nodata.visibility = View.VISIBLE
-
-            btn_retry.setOnClickListener {
-                viewModel.reload()
-                ll_nodata.visibility = View.GONE
-            }
         }
     }
 

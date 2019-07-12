@@ -1,11 +1,12 @@
-package com.nyt.mostpopular
+package com.nyt
 
+import androidx.test.platform.app.InstrumentationRegistry
 import okhttp3.mockwebserver.MockResponse
 import okhttp3.mockwebserver.MockWebServer
 import org.junit.After
 import org.junit.Before
 import org.mockito.MockitoAnnotations
-import java.io.File
+import java.io.InputStream
 
 
 /**
@@ -40,16 +41,16 @@ open class MockServerTest {
     fun getMockUrl() = mockServer.url("/").toString()
 
 
-    fun mockHttpResponse(fileName: String, responseCode: Int) =
-        mockServer.enqueue(
+    fun mockHttpResponse(fileName: String, responseCode: Int) {
+        val json = getJson(fileName)
+        return mockServer.enqueue(
             MockResponse()
                 .setResponseCode(responseCode)
-                .setBody(getJson(fileName))
-        )
+                .setBody(json))
+    }
 
-    private fun getJson(path: String): String {
-        val uri = javaClass.classLoader?.getResource(path)!!
-        val file = File(uri.path)
-        return String(file.readBytes())
+    fun getJson(path : String) : String {
+        val inputStream: InputStream = InstrumentationRegistry.getInstrumentation().context.resources.assets.open(path)
+        return inputStream.bufferedReader().use{it.readText()}
     }
 }
