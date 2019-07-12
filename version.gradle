@@ -2,7 +2,7 @@
 
 project.ext {
     devMode = true
-    minSdkVersion = 16
+    minSdkVersion = 21
     compileSdkVersion = 29
     buildVersion = "29.0.0"
 

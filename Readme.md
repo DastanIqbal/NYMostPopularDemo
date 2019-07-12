@@ -7,6 +7,7 @@ This app just shows how to use retrofit and coroutines with Android Lifecycle
 - Android Studio v3.4.2
 - Gradle v5.1.1
 - Android SDK API 29
+- Minimum SDK API 21
 - Ubuntu 19.04
 
 ## Build 
